@@ -31,6 +31,7 @@ Component wise subtraction with mod p.
 
 # Multiplication
 Each element in the result,is given by this formula.
+![15](https://user-images.githubusercontent.com/59797227/100792667-fc1b2a00-33e8-11eb-954e-6533b7f3bc8e.png)
 
 
 ![8](https://user-images.githubusercontent.com/59797227/100792240-5962ab80-33e8-11eb-833d-1357fb1af5fe.png)
