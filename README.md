@@ -36,4 +36,5 @@ Cross product with mod p.
 
 ![7](https://user-images.githubusercontent.com/59797227/100787274-64fea400-33e1-11eb-9dc0-8ddd3b218a75.png)
 
-Or scalar multiplication with mod p.
+The simpler scalar product can be calculated as well (with mod p of course).
+
