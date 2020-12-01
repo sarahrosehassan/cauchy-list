@@ -15,4 +15,4 @@ Component wise subtraction with mod p.
 
 
 # List Multiplication with Modular Arithmetic
-Vector multiplicaiton with mod p.
+Vector multiplicaiton (cross product) with mod p.
