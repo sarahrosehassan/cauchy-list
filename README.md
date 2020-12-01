@@ -1,6 +1,18 @@
-# Vector Operation Calculator
+# CauchyList
+To use this program we can perform the operations with the symbols "+" "-" and "*" on the lists.
+p represents the range of numbers in each list. 
 
-A CauchyList is a list with arithmetic operations associated with it. 
+# Addition with Modular Arithmetic
+Component wise addition with mod p.
 
 
-In Computer Science, Vectors are often represented with lists. The cauchyLists used in this python program represent vector operations.
+
+
+# Subtraction with Modular Arithmetic
+Component wise subtraction with mod p.
+
+
+
+
+# List Multiplication with Modular Arithmetic
+Vector multiplicaiton with mod p.
