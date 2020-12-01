@@ -1,5 +1,7 @@
 # CauchyList
-To use this program we can perform the operations on lists with the symbols "+" "-" and "*" on lists.
+A CauchyList is a list with associated arithmetic operations.
+
+To use this program we can perform the operations on lists with the symbols "+" "-" and "*."
 
 p represents the range of numbers in each list. 
 
