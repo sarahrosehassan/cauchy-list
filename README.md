@@ -38,6 +38,6 @@ Cross product with mod p.
 
 The simpler scalar product can be calculated as well (with mod p of course).
 
-
 ![10](https://user-images.githubusercontent.com/59797227/100790004-3be01280-33e5-11eb-8c41-06776e418f72.png)
+![11](https://user-images.githubusercontent.com/59797227/100790402-b872f100-33e5-11eb-9609-01cea44ccad7.png)
 
