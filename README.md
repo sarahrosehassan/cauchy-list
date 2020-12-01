@@ -44,5 +44,6 @@ The simpler scalar product can be calculated as well (with mod p of course).
 
 # Multiple Operations
 You can perform multiple operations at once with the lists
-![12](https://user-images.githubusercontent.com/59797227/100791431-40a5c600-33e7-11eb-9353-dfafc5d9a5ea.png)
+![14](https://user-images.githubusercontent.com/59797227/100791589-6f23a100-33e7-11eb-83ec-eb9732cd0a9d.png)
+
 ![13](https://user-images.githubusercontent.com/59797227/100791435-426f8980-33e7-11eb-9701-98bf9f215cdf.png)
