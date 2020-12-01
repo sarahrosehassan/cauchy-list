@@ -1,6 +1,6 @@
 class CauchyList:
     def __init__(self, p):
-    	self.p = p
+    	self.p = p # range of the values
     	self.content = []
 
     def generate_random(self, n):
