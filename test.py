@@ -1,0 +1,40 @@
+from assignment3 import *
+
+
+def test():
+    n = 10
+    p = 31
+    for i in range(n):
+        a = CauchyList(p)
+        a.generate_random(n)
+        b = CauchyList(p)
+        b.generate_random(n)
+        c = CauchyList(p)
+        c.generate_random(n)
+        print(a + b * 13 + a * c)
+
+
+    print("=====================================")
+
+    a = CauchyList(p)
+    b = CauchyList(2 * p)
+    try:
+        print(a * b)
+    except ValueError as ve:
+        print(ve)
+
+    print("=====================================")
+
+    a = CauchyList(p)
+    a.generate_random(n)
+    b = CauchyList(p)
+    b.generate_random(2 * n - 2)
+    c = a + b
+    print(a)
+    print(b)
+    print(c)
+
+
+
+if __name__ == "__main__":
+    test()
