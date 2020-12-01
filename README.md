@@ -25,6 +25,9 @@ Component wise addition with mod p.
 # Subtraction
 Component wise subtraction with mod p.
 
+![5](https://user-images.githubusercontent.com/59797227/100787051-0d603880-33e1-11eb-92d9-cb8f15e6567d.png)
+
+![6](https://user-images.githubusercontent.com/59797227/100787056-0f29fc00-33e1-11eb-9500-455ee8e704ac.png)
 
 
 
