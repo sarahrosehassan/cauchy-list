@@ -1,5 +1,6 @@
 # CauchyList
-To use this program we can perform the operations with the symbols "+" "-" and "*" on the lists.
+To use this program we can perform the operations on lists with the symbols "+" "-" and "*" on the lists.
+
 p represents the range of numbers in each list. 
 
 # Addition with Modular Arithmetic
