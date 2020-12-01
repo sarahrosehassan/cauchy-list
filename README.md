@@ -38,3 +38,5 @@ Cross product with mod p.
 
 The simpler scalar product can be calculated as well (with mod p of course).
 
+<img width="144" alt="Screen Shot 2020-12-01 at 2 52 40 PM" src="https://user-images.githubusercontent.com/59797227/100789800-f0c5ff80-33e4-11eb-9f10-ff56c970744b.png">
+<img width="153" alt="Screen Shot 2020-12-01 at 2 52 23 PM" src="https://user-images.githubusercontent.com/59797227/100789804-f0c5ff80-33e4-11eb-8b41-5fa933ee6f7e.png">
