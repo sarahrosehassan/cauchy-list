@@ -31,12 +31,10 @@ Component wise subtraction with mod p.
 
 # Multiplication
 Cross product with mod p.
-
-![8](https://user-images.githubusercontent.com/59797227/100787377-8a8bad80-33e1-11eb-9300-43c1babe0c59.png)
+<img width="144" alt="Screen Shot 2020-12-01 at 2 52 40 PM" src="https://user-images.githubusercontent.com/59797227/100789800-f0c5ff80-33e4-11eb-9f10-ff56c970744b.png">
 
 ![7](https://user-images.githubusercontent.com/59797227/100787274-64fea400-33e1-11eb-9dc0-8ddd3b218a75.png)
 
 The simpler scalar product can be calculated as well (with mod p of course).
 
-<img width="144" alt="Screen Shot 2020-12-01 at 2 52 40 PM" src="https://user-images.githubusercontent.com/59797227/100789800-f0c5ff80-33e4-11eb-9f10-ff56c970744b.png">
 <img width="153" alt="Screen Shot 2020-12-01 at 2 52 23 PM" src="https://user-images.githubusercontent.com/59797227/100789804-f0c5ff80-33e4-11eb-8b41-5fa933ee6f7e.png">
