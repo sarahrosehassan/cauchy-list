@@ -30,9 +30,10 @@ Component wise subtraction with mod p.
 
 
 # Multiplication
-Cross product with mod p.
+Each element in the result,is given by this formula.
 
-![9](https://user-images.githubusercontent.com/59797227/100790000-3a164f00-33e5-11eb-9189-63c4c0e82042.png)
+
+![8](https://user-images.githubusercontent.com/59797227/100792240-5962ab80-33e8-11eb-833d-1357fb1af5fe.png)
 
 ![7](https://user-images.githubusercontent.com/59797227/100787274-64fea400-33e1-11eb-9dc0-8ddd3b218a75.png)
 
