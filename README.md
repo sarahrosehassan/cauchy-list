@@ -43,7 +43,7 @@ The simpler scalar product can be calculated as well (with mod p of course).
 ![11](https://user-images.githubusercontent.com/59797227/100790402-b872f100-33e5-11eb-9609-01cea44ccad7.png)
 
 # Multiple Operations
-You can perform multiple operations at once as well.
+You can perform multiple operations at once.
 
 ![14](https://user-images.githubusercontent.com/59797227/100791589-6f23a100-33e7-11eb-83ec-eb9732cd0a9d.png)
 
