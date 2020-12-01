@@ -32,4 +32,6 @@ Component wise subtraction with mod p.
 # Multiplication
 Cross product with mod p.
 
+![8](https://user-images.githubusercontent.com/59797227/100787377-8a8bad80-33e1-11eb-9300-43c1babe0c59.png)
+
 ![7](https://user-images.githubusercontent.com/59797227/100787274-64fea400-33e1-11eb-9dc0-8ddd3b218a75.png)
