@@ -2,8 +2,8 @@ from assignment3 import *
 
 # This is the code my project was tested with for the correct output
 def test():
-    n = 10
-    p = 31
+    n = 10 # length of list
+    p = 31 # range of values
     for i in range(n):
         a = CauchyList(p)
         a.generate_random(n)
