@@ -1,8 +1,8 @@
 from assignment3 import *
 
 def readmeTest():
-	n = 10
-	p = 31
+	n = 10 # length of list
+	p = 31 # range of values
 	a = CauchyList(p)
 	b = CauchyList(p)
 	c = CauchyList(p)
