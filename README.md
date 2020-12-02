@@ -1,7 +1,7 @@
 # Cauchy List ➕➖✖️
 A Cauchy List is a list associated with arithmetic operations.(I enjoy seeing the worlds of mathematics and computer science collide)
 
-To use this program we can perform the operations on lists with the symbols + - and * in Python.
+With this program we can perform the operations on lists with the symbols + - and * in Python.
 
 p represents the range of numbers.
 
