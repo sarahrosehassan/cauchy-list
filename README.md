@@ -38,7 +38,7 @@ Each element is given by this custom formula with mod p.
 
 ![7](https://user-images.githubusercontent.com/59797227/100787274-64fea400-33e1-11eb-9dc0-8ddd3b218a75.png)
 
-The simpler scalar product, can be calculated as well (with mod p of course).
+The simpler scalar product can be calculated as well (with mod p of course).
 
 ![10](https://user-images.githubusercontent.com/59797227/100790004-3be01280-33e5-11eb-8c41-06776e418f72.png)
 
