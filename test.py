@@ -1,4 +1,4 @@
-from assignment3 import *
+from cauchyList import *
 
 # This is the code my project was tested with for the correct output
 def test():
