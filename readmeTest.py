@@ -1,4 +1,4 @@
-from assignment3 import *
+from cauchyList import *
 
 def readmeTest():
 	n = 10 # length of list
